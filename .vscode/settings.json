@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "inttypes.h": "c",
+        "can_inittypedef.h": "c"
+    }
+}
